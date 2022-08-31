@@ -1,5 +1,5 @@
-[![Scala CI](https://github.com/databrickslabs/dataframe-rules-engine/actions/workflows/scala.yml/badge.svg?branch=master)](https://github.com/databrickslabs/dataframe-rules-engine/actions/workflows/scala.yml)
-[![codecov](https://codecov.io/gh/databrickslabs/dataframe-rules-engine/branch/master/graph/badge.svg?token=6DEXO6I0BG)](https://codecov.io/gh/databrickslabs/dataframe-rules-engine)
+[![Scala CI](https://github.com/databrickslabs/dataframe-rules-engine/actions/workflows/scala.yml/badge.svg?branch=master)](https://github.com/sidharthbolar/dataframe-rules-engine/actions/workflows/scala.yml)
+[![codecov](https://codecov.io/gh/databrickslabs/dataframe-rules-engine/branch/master/graph/badge.svg?token=6DEXO6I0BG)](https://codecov.io/gh/sidharthbolar/dataframe-rules-engine)
 # dataframe-rules-engine
 Simplified Validation at scale for Production Spark Workloads on streaming / standard DataFrames and DataSets
 
